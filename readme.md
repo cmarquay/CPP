@@ -1,0 +1,1 @@
+This work was made during the ÉCOLE POLYTECHNIQUE FÉDÉRALE DE LAUSANNE EPFL's MOOC "Initiation à la Programmation en C++" (from september to november 2015).
